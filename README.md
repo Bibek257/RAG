@@ -18,14 +18,14 @@ Each project shows how to combine **Large Language Models (LLMs)** with **vector
 
 ## 📂 Structure  
 
-rag-projects/
-│── project1.ipnyb
-│── ...
-│── ...
-│── ...
-│── project(N).ipynb
-│── ...
-│── README.md
+rag-projects/ </br>
+│── project1.ipnyb </br>
+│── ...</br>
+│── ... </br>
+│── ... </br>
+│── project(N).ipynb </br>
+│── ... </br>
+│── README.md </br>
 
 
 
@@ -66,5 +66,5 @@ but if you’d like to suggest ideas, feel free to open an issue 🚀
 ---
 
 <p align="center">  
-✨ Continuous Learning · Building RAG Apps · One Notebook at a Time ✨  
+✨ Continuous Learning   
 </p>
